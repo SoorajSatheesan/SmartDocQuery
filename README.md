@@ -1,4 +1,4 @@
-# Agentic RAG Implementation using Gemini-1.5 FLASH
+# SmartDocQuery
 
 ## Approach:
 
